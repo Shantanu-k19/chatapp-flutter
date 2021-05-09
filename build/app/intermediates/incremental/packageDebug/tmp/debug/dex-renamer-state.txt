@@ -1,0 +1,4 @@
+#Sun May 09 02:22:43 IST 2021
+base.0=/Users/harshadkhanapure/Shantanu/college project/chatapp_f/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
